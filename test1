@@ -1,0 +1,23 @@
+<html>
+<html lang="en-US">
+<title> Richard Kaplan </title>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body id="home" class="open-left">
+        <div class="center">
+            <header>
+                My name is Richard and I am excited about learning to code and I am looking forward to my time in Cape Town.
+            </header>
+            <section>
+                <main>
+                    <article>
+                            <img src="https://scontent.fdur2-1.fna.fbcdn.net/v/t1.0-9/11855613_10153096700185687_8257318405456249294_n.jpg?_nc_cat=0&oh=1a2ef8db99b2641da10c14a47b0b9ab5&oe=5BAD9DE5" alt="Me."/>
+                                <h1><i>Me thinking about learning coding<i</h1>
+                    </article>
+                </main>
+            </section>          
+        </div>
+    </body>
+</html>
